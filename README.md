@@ -33,6 +33,6 @@ Undergraduate student in Artificial Intelligence at Centro Universitário FAG, c
 Passionate about Machine Learning, Data Science, Chatbots, and Intelligent Systems.
 
 📬 Contact:
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/matheus-maximowitz-prause-099606342/
 
-Email
+Email: matmaxprause@gmail.com
